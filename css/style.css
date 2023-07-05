@@ -7,6 +7,9 @@ h1{
 }
 
 p{
-    color: fuchsia;
+    color: rgb(192, 6, 176);
 }
 
+li{
+    color: rgb(192, 6, 176);
+}
